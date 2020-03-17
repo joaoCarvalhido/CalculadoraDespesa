@@ -5,6 +5,11 @@
 Com a finalidade de aprender a usar a biblioteca 'JOptionPane' do Java, fiz esse projeto de finanças, portanto, por meio de
 caixas de alerta e banco de dados MySQL, pude aprimorar ainda mais meus conhecimentos em Programação e Finanças.
 
+**Obs:\
+Refatorei o código e passei para a Web utilizando Spring MVC e JPA/Hibernate. \
+Link do repositório: 
+https://github.com/joaoCarvalhido/tcc-sloth**
+
 ## Problema
 
 Já recebeu algum conselho sobre casa própria? recomendaram que aluguel é um tiro no pé?
